@@ -1,0 +1,123 @@
+[I 14:09:45.354 NotebookApp] Writing notebook server cookie secret to /run/user/1001/jupyter/notebook_cookie_secret
+[W 14:09:45.634 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[W 14:09:45.635 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+[I 14:09:45.644 NotebookApp] Serving notebooks from local directory: /home/carnd/CarND-Traffic-Sign-Classifier-Project
+[I 14:09:45.644 NotebookApp] 0 active kernels 
+[I 14:09:45.644 NotebookApp] The Jupyter Notebook is running at: http://[all ip addresses on your system]:8888/
+[I 14:09:45.644 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 14:09:45.645 NotebookApp] No web browser found: could not locate runnable browser.
+[I 14:10:07.407 NotebookApp] 302 GET /notebooks/visualize_cnn.png (104.175.196.94) 1.15ms
+[I 14:10:07.466 NotebookApp] Kernel started: 44578a55-7da3-4ab2-bcca-3f0602c7fb95
+[I 14:11:47.077 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 14:12:01.906 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 14:14:07.979 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 14:18:07.986 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 14:18:22.179 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 14:20:08.050 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 14:23:12.390 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[W 16:26:08.322 NotebookApp] WebSocket ping timeout after 119864 ms.
+[I 05:47:25.136 NotebookApp] 302 GET / (158.85.81.117) 0.64ms
+[W 15:32:22.140 NotebookApp] 405 CONNECT www.server110.com:443 (222.241.7.197) 8.88ms referer=None
+[W 15:32:22.844 NotebookApp] 405 CONNECT www.server110.com:443 (222.241.7.197) 1.72ms referer=None
+[W 15:32:23.560 NotebookApp] 405 CONNECT www.server110.com:443 (222.241.7.197) 1.71ms referer=None
+[W 15:32:24.256 NotebookApp] 405 CONNECT www.linode.com:443 (222.241.7.197) 1.69ms referer=None
+[W 15:32:24.943 NotebookApp] 405 CONNECT www.linode.com:443 (222.241.7.197) 2.00ms referer=None
+[W 15:32:25.993 NotebookApp] 405 CONNECT www.linode.com:443 (222.241.7.197) 2.72ms referer=None
+[W 15:32:27.026 NotebookApp] 405 CONNECT www.baidu.com:443 (222.241.7.197) 1.73ms referer=None
+[W 15:32:27.726 NotebookApp] 405 CONNECT www.baidu.com:443 (222.241.7.197) 1.76ms referer=None
+[W 15:32:28.416 NotebookApp] 405 CONNECT www.baidu.com:443 (222.241.7.197) 1.70ms referer=None
+[W 22:10:42.755 NotebookApp] 404 GET /a2billing/admin/Public/index.php (46.17.47.89) 4.01ms referer=None
+[I 22:10:42.759 NotebookApp] 302 GET /recordings/ (46.17.47.89) 0.35ms
+[I 17:59:32.890 NotebookApp] Kernel shutdown: 44578a55-7da3-4ab2-bcca-3f0602c7fb95
+[I 17:59:33.085 NotebookApp] Kernel started: a565856c-d3f6-406a-a973-71512deccf2f
+[I 17:59:54.182 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcublas.so locally
+I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcudnn.so locally
+I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcufft.so locally
+I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:128] successfully opened CUDA library libcurand.so locally
+[I 18:00:21.648 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 18:00:30.589 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:937] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:885] Found device 0 with properties: 
+name: GRID K520
+major: 3 minor: 0 memoryClockRate (GHz) 0.797
+pciBusID 0000:00:03.0
+Total memory: 3.94GiB
+Free memory: 3.91GiB
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:906] DMA: 0 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:916] 0:   Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+[I 18:01:16.338 NotebookApp] Kernel interrupted: a565856c-d3f6-406a-a973-71512deccf2f
+[I 18:02:04.101 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 18:06:41.018 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 18:10:31.382 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 18:12:31.401 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 18:13:21.560 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+[I 18:14:41.306 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 18:16:43.940 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 18:17:12.831 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 18:17:18.424 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+[I 18:17:41.464 NotebookApp] Kernel interrupted: a565856c-d3f6-406a-a973-71512deccf2f
+[I 18:18:18.554 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 18:25:25.954 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 18:27:29.129 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 18:29:29.123 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+[I 18:31:29.238 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 18:33:33.910 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 18:35:33.865 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+[I 18:36:50.142 NotebookApp] Kernel interrupted: a565856c-d3f6-406a-a973-71512deccf2f
+[I 18:37:33.790 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 18:45:50.427 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 18:47:53.689 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+[I 18:51:31.542 NotebookApp] Kernel interrupted: a565856c-d3f6-406a-a973-71512deccf2f
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+[I 18:51:55.176 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 18:53:55.307 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 18:55:55.352 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 18:58:03.357 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 19:00:03.385 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 19:01:33.978 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+[I 19:02:03.061 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 19:04:03.278 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 19:06:03.353 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 19:08:13.392 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[W 19:11:33.839 NotebookApp] WebSocket ping timeout after 119848 ms.
+[I 20:41:40.965 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 21:00:31.792 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 21:02:08.758 NotebookApp] 302 GET /notebooks/visualize_cnn.png (204.148.58.162) 1.26ms
+[I 21:04:09.308 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 21:10:34.130 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 21:13:40.874 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+[I 21:22:37.397 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 21:24:37.285 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 21:26:39.909 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 21:28:39.803 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 21:30:19.374 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:975] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GRID K520, pci bus id: 0000:00:03.0)
+[I 21:32:40.786 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 21:34:41.116 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 21:36:46.483 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 21:38:46.526 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[I 21:40:46.523 NotebookApp] Saving file at /Traffic_Sign_Classifier.ipynb
+[W 00:25:38.967 NotebookApp] WebSocket ping timeout after 119858 ms.
+[W 13:06:39.205 NotebookApp] 405 CONNECT www.server110.com:443 (222.186.39.45) 1.78ms referer=None
+[W 13:06:39.898 NotebookApp] 405 CONNECT www.server110.com:443 (222.186.39.45) 1.93ms referer=None
+[W 13:06:41.589 NotebookApp] 405 CONNECT www.server110.com:443 (222.186.39.45) 1.75ms referer=None
+[W 13:06:42.283 NotebookApp] 405 CONNECT www.linode.com:443 (222.186.39.45) 1.87ms referer=None
+[W 13:06:43.007 NotebookApp] 405 CONNECT www.linode.com:443 (222.186.39.45) 2.06ms referer=None
+[W 13:06:43.694 NotebookApp] 405 CONNECT www.linode.com:443 (222.186.39.45) 1.92ms referer=None
+[W 13:06:44.367 NotebookApp] 405 CONNECT www.baidu.com:443 (222.186.39.45) 1.76ms referer=None
+[W 13:06:45.059 NotebookApp] 405 CONNECT www.baidu.com:443 (222.186.39.45) 1.73ms referer=None
+[W 13:06:45.756 NotebookApp] 405 CONNECT www.baidu.com:443 (222.186.39.45) 1.77ms referer=None
+[I 23:24:38.024 NotebookApp] 302 GET / (106.184.3.122) 0.54ms
+[I 02:00:51.508 NotebookApp] 302 GET / (196.52.43.51) 0.63ms
+[W 09:42:17.956 NotebookApp] 405 CONNECT 138.197.223.235:43 (138.197.223.235) 1.84ms referer=None
+[W 11:32:32.088 NotebookApp] 404 GET /manager/html (221.176.65.11) 2.19ms referer=None
